@@ -37,7 +37,7 @@ export default function Hero() {
             </div>
           </div>
 
-          <div className="w-full h-full">
+          <div className="w-full h-full pointer-events-none">
             <Animacao />
           </div>
         </div>
